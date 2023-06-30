@@ -1,0 +1,3 @@
+Sequence to Sequence models is a special class of Recurrent Neural Network architectures to solve complex Language problems like Machine Translation, Question
+Answering, creating Chatbots, Text Summarization, etc. In this project, Sequence to Sequence Model is used to perform Universal Part Of Speech tagging.
+Various Neural Network models are implemented and their performance is evaluated.
